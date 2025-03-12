@@ -26,7 +26,7 @@ user_input = st.text_area("Enter your text here:")
 
 
 temp = PromptTemplate(
-    template="translate following text to from {source_language} to  {target_language}:{text}",
+    template="translate following text to from {source_language} to  {target_language} and return only the translated text:{text}",
     input_variables=["source","language","text"]
 )
 
