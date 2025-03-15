@@ -2,6 +2,7 @@
  This AI-Powered Multilingual Translator is an advanced language translation tool that supports multiple languages with high accuracy. Built using LangChain and Google Generative AI, it provides real-time translations while maintaining contextual meaning.
 
 🔹 Features:
+
 ✅ Supports multiple languages for seamless communication
 ✅ Uses AI to improve translation accuracy and fluency
 ✅ Context-aware translations for better comprehension
