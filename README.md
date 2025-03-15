@@ -16,6 +16,7 @@
 LangChain for AI-driven processing
 Google Generative AI for high-quality translations
 Streamlit (optional) for a user-friendly interface
+
 🚀 How to Use:
 1️⃣ Input text in any supported language
 2️⃣ Select the target language
