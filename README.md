@@ -9,7 +9,7 @@
 ✅ Simple and intuitive interface for easy usage
 ✅ Scalable and efficient for various applications
 
-🔧 Technologies Used:
+**🔧 Technologies Used:**
 LangChain for AI-driven processing
 Google Generative AI for high-quality translations
 Streamlit (optional) for a user-friendly interface
