@@ -11,6 +11,7 @@
 ✅ Uses AI to improve translation accuracy and fluency
 
 ✅ Context-aware translations for better comprehension
+
 ✅ Simple and intuitive interface for easy usage
 ✅ Scalable and efficient for various applications
 
